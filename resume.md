@@ -4,6 +4,7 @@ Appalachian State University
 Boone, NC, USA
 lillian.n.sell@gmail.com
 <img src= "/Stonehenge_1877.jpg">
+![stonehenge](/Stonehenge_1877.jpg)
 ## Education 
 Bachelor of Science in Anthropology, *expected May 2025*
 Certificute in GIS, *expected May 2025*
